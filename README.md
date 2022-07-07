@@ -53,5 +53,14 @@ Collection of solutions for most popular DS+Algo questions asked for SDE intervi
 50. Word Boggle 
 51. Word Ladder (Length of shortest chain to reach a target word)
 52. X Total Shapes
+53. Maximum Product of Increasing Subsequence of Size 3 
+54. Move all the zeroes to the front of the linked list 
+55. Geek in a maze
+56. Maximum sum rectangle
+57. Smallest greater elements in whole array
+58. Adventure in a Maze 
+59. Counts Zeros Xor Pairs 
+60. DFS Traversal
+
 
 
